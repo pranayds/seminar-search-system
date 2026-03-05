@@ -137,7 +137,3 @@ seminar-search-system/
 ## Author
 
 Pranay Dhalwani
-
-## Acknowledgments
-
-Developed as part of CS 3114 (Data Structures and Algorithms) coursework at Virginia Tech.
