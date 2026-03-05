@@ -1,9 +1,8 @@
 /**
- * Seminar class with getter methods for key fields. There is probably no
- * good reason why you would want to modify this class for your project.
+ * Seminar class with getter methods for key fields.
  *
- * @author CS3114/CS5040 staff
- * @version July 2023, last updated September 2023
+ * @author Pranay Dhalwani
+ * @version 2023
  */
 
 public class Seminar {
